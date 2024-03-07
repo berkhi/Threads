@@ -1,6 +1,4 @@
-package com.berkhayta;
-
-import java.util.Scanner;
+package com.berkhayta._00_ThreadBaslangic;
 
 public class MultiThreadOrnek2 {
     public static void main(String[] args) {

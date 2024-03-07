@@ -1,4 +1,4 @@
-package com.berkhayta;
+package com.berkhayta._00_ThreadBaslangic;
 /*
 Process: İşlemler : Ms Teams, IntelliJ IDEA,
 Thread: İş parçacıkları: Her bir process içindeki küçük iş parçacağı

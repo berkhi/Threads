@@ -1,4 +1,4 @@
-package com.berkhayta;
+package com.berkhayta._01_ThreadOrnek;
 /*
 3 farklı thread olsun.
 1. thread 1-50ye kadar 3er 3er sayıları yazdırsın.

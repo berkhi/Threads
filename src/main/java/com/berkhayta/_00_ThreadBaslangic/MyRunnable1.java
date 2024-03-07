@@ -1,4 +1,4 @@
-package com.berkhayta;
+package com.berkhayta._00_ThreadBaslangic;
 
 public class MyRunnable1 implements Runnable{
     private String isim;

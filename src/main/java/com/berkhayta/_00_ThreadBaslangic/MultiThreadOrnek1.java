@@ -1,4 +1,4 @@
-package com.berkhayta;
+package com.berkhayta._00_ThreadBaslangic;
 // D:\JAVA14GITHUB\Java14Full\Java14_07_Threads\build\classes\java\main>java com.barisd.MultiThreadOrnek1
 
 public class MultiThreadOrnek1 {
